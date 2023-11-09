@@ -1,0 +1,14 @@
+[
+    {
+        "courseId": "17387",
+        "todos": [
+            {
+                "amount": 1,
+                "title": "Grade A1 - ENV + HTML",
+                "pts": 100,
+                "dueDate": "Sep 18",
+                "dueTime": "11:59pm"
+            }
+        ]
+    }
+]

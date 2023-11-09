@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "A101",
+        "courseId":"17387",
+        "title":"A1 SETUP",
+        "descript":"Week 0 - SETUP - Week starting on Monday September 5th (9/5/2022) Module |",
+        "duedate":"Sep 18, 2022 at 11:59:pm",
+        "pts":"100"
+    },
+    
+    {
+        "_id":"A102",
+        "courseId":"17387",
+        "title":"A2 HTML",
+        "descript":"Week 1 - HTML - Week starting on Monday September 12th (9/12/2022) Module |",
+        "duedate":"Sep 25, 2022 at 11:59:pm",
+        "pts":"100"
+    },
+    
+    {
+        "_id":"A103",
+        "courseId":"17387",
+        "title":"A3 CSS",
+        "descript":"Week 2 - CSS - Week starting on Monday September 19th (9/19/2022) Module |",
+        "duedate":"Oct 2, 2022 at 11:59:pm",
+        "pts":"100"
+    },
+    
+    {
+        "_id":"A104",
+        "courseId":"17387",
+        "title":"A4 BOOTSTRAP",
+        "descript":"Week 3 - Bootstrap - Week starting on Monday September 26th (9/26/2022) Module |",
+        "duedate":"Oct 10, 2022 at 11:59:pm",
+        "pts":"100"
+    },
+    {
+        "_id":"A105",
+        "courseId":"17387",
+        "title":"A5 JAVASCRIPT",
+        "descript":"Week 4 - JavaScript - Week starting on Monday Oct 3rd (10/03/2022) Module |",
+        "duedate":"Oct 16, 2022 at 11:59:pm",
+        "pts":"100"
+    },
+    {
+        "_id":"A106",
+        "courseId":"17387",
+        "title":"A6 REACT",
+        "descript":"Week 5 - React & Routing - Week starting on Monday Oct 10th (10/10/2022) Module |",
+        "duedate":"Oct 23, 2022 at 11:59:pm",
+        "pts":"100"
+    }
+    
+]

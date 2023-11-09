@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "17387",
+        "name": "Web Development",
+        "number":"CS5610",
+        "startDate":"2023.09.07",
+        "endDate":"2023.12.01"
+    },
+    {
+        "_id": "45607",
+        "name": "Algorithm",
+        "number":"CS5800",
+        "startDate":"2023.09.07",
+        "endDate":"2023.12.01"
+    },
+    {
+        "_id": "31393",
+        "name": "Machine Learning",
+        "number":"CS6140",
+        "startDate":"2023.09.07",
+        "endDate":"2023.12.01"
+    }
+]

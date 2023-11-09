@@ -1,0 +1,484 @@
+[
+    {
+        "courseId": "17387",
+        "_id": "1",
+        "moduleName": "Resources",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Syllabus": "",
+                    "Piazza": "",
+                    "Project Requirements": "",
+                    "Project Checklist": ""
+                },
+                "other": {
+                    "Undergraduate Calendar": "",
+                    "Graduate Calendar": "",
+                    "Office Hours": ""
+                }
+            },
+            {
+                "topicName": "GITHUB",
+                "semiTopics": null,
+                "links": {
+                    "Jose's GitHub username: jannunzi": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "17387",
+        "_id": "2",
+        "moduleName": "Required Textbook",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Required Text - Full Stack Developer": "",
+                    "Link to Web Support Form": "",
+                    "Link to Student Customer Service Portal": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "17387",
+        "_id": "3",
+        "moduleName": "Week 0 - INTRO",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Introduction to the Course",
+                    "Learing What is Web Development",
+                    "Creating a Web Development Environment",
+                    "Creating a Webb Application",
+                    "Getting Started With 1ST other"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development": "",
+                    "Creating an HTTP server with Node.js": "",
+                    "Creating a React Application": "",
+                    "Commit your source to GitHub.com": "",
+                    "Deploying to Netfliy": "",
+                    "Deploying multiple branches in Netlify": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development - like and subscribe!": ""
+                }
+            }
+        ]
+    },
+    {
+        "courseId": "17387",
+        "_id": "4",
+        "moduleName": "Week 1 - HTML",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Learn how to create user interfaces with HTML",
+                    "Keep working on other 1",
+                    "Deploy the other to Netlify"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to HTML and the DOM Links to an external site.": "",
+                    "Formatting Web content with Headings and Paragraphs": "",
+                    "Formatting content with Lists and Tables": "",
+                    "Creating Web Forms": "",
+                    "Navigating with Anchors": "",
+                    "Embedding content with Iframes": "",
+                    "Drawing with Scalable Vector Graphics": "",
+                    "HTML - all the slides above": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": "",
+                    "Projects": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Getting Started with other 1 - Please like, subscribe, share": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "31393",
+        "moduleName": "Resources",
+        "_id": "5",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Syllabus": "",
+                    "Piazza": "",
+                    "Project Requirements": "",
+                    "Project Checklist": ""
+                },
+                "other": {
+                    "Undergraduate Calendar": "",
+                    "Graduate Calendar": "",
+                    "Office Hours": ""
+                }
+            },
+            {
+                "topicName": "GITHUB",
+                "semiTopics": null,
+                "links": {
+                    "Jose's GitHub username: jannunzi": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "31393",
+        "moduleName": "Required Textbook",
+        "_id": "6",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Required Text - Full Stack Developer": "",
+                    "Link to Web Support Form": "",
+                    "Link to Student Customer Service Portal": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "31393",
+        "moduleName": "Week 0 - INTRO",
+        "_id": "7",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Introduction to the Course",
+                    "Learing What is Web Development",
+                    "Creating a Web Development Environment",
+                    "Creating a Webb Application",
+                    "Getting Started With 1ST other"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development": "",
+                    "Creating an HTTP server with Node.js": "",
+                    "Creating a React Application": "",
+                    "Commit your source to GitHub.com": "",
+                    "Deploying to Netfliy": "",
+                    "Deploying multiple branches in Netlify": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development - like and subscribe!": ""
+                }
+            }
+        ]
+    },
+    {
+        "moduleName": "Week 1 - HTML",
+        "_id": "8",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Learn how to create user interfaces with HTML",
+                    "Keep working on other 1",
+                    "Deploy the other to Netlify"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to HTML and the DOM Links to an external site.": "",
+                    "Formatting Web content with Headings and Paragraphs": "",
+                    "Formatting content with Lists and Tables": "",
+                    "Creating Web Forms": "",
+                    "Navigating with Anchors": "",
+                    "Embedding content with Iframes": "",
+                    "Drawing with Scalable Vector Graphics": "",
+                    "HTML - all the slides above": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": "",
+                    "Projects": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Getting Started with other 1 - Please like, subscribe, share": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "45607",
+        "moduleName": "Resources",
+        "_id": "9",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Syllabus": "",
+                    "Piazza": "",
+                    "Project Requirements": "",
+                    "Project Checklist": ""
+                },
+                "other": {
+                    "Undergraduate Calendar": "",
+                    "Graduate Calendar": "",
+                    "Office Hours": ""
+                }
+            },
+            {
+                "topicName": "GITHUB",
+                "semiTopics": null,
+                "links": {
+                    "Jose's GitHub username: jannunzi": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "45607",
+        "moduleName": "Required Textbook",
+        "_id": "99",
+        "moduleTopic": [
+            {
+                "topicName": null,
+                "semiTopics": null,
+                "links": {
+                    "Required Text - Full Stack Developer": "",
+                    "Link to Web Support Form": "",
+                    "Link to Student Customer Service Portal": ""
+                },
+                "other": null
+            }
+        ]
+    },
+    {
+        "courseId": "45607",
+        "moduleName": "Week 0 - INTRO",
+        "_id": "98",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Introduction to the Course",
+                    "Learing What is Web Development",
+                    "Creating a Web Development Environment",
+                    "Creating a Webb Application",
+                    "Getting Started With 1ST other"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development": "",
+                    "Creating an HTTP server with Node.js": "",
+                    "Creating a React Application": "",
+                    "Commit your source to GitHub.com": "",
+                    "Deploying to Netfliy": "",
+                    "Deploying multiple branches in Netlify": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to Web Development - like and subscribe!": ""
+                }
+            }
+        ]
+    },
+    {
+        "courseId": "45607",
+        "moduleName": "Week 1 - HTML",
+        "_id": "91",
+        "moduleTopic": [
+            {
+                "topicName": "LEARNING OBJECTIVES",
+                "semiTopics": [
+                    "Learn how to create user interfaces with HTML",
+                    "Keep working on other 1",
+                    "Deploy the other to Netlify"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "READINGS",
+                "semiTopics": [
+                    "Full Stack Developer - Chapter 1 - Introduction",
+                    "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML"
+                ],
+                "links": null,
+                "other": null
+            },
+            {
+                "topicName": "SLIDES",
+                "semiTopics": null,
+                "links": {
+                    "Introduction to HTML and the DOM Links to an external site.": "",
+                    "Formatting Web content with Headings and Paragraphs": "",
+                    "Formatting content with Lists and Tables": "",
+                    "Creating Web Forms": "",
+                    "Navigating with Anchors": "",
+                    "Embedding content with Iframes": "",
+                    "Drawing with Scalable Vector Graphics": "",
+                    "HTML - all the slides above": ""
+                },
+                "other": null
+            },
+            {
+                "topicName": "EVALUATIONS",
+                "semiTopics": null,
+                "links": null,
+                "other": {
+                    "A1 - ENV + HTML": "",
+                    "Projects": ""
+                }
+            },
+            {
+                "topicName": "YOUTUBE - Please subscribe, like and share my videos on YouTube",
+                "semiTopics": null,
+                "links": {
+                    "Getting Started with other 1 - Please like, subscribe, share": ""
+                },
+                "other": null
+            }
+        ]
+    }
+]
