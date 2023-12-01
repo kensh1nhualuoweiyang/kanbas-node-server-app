@@ -143,7 +143,7 @@ const Lab5 = (app) => {
         res.send(sum.toString())
     })
     app.get('/a5/calculator', (req, res) => {
-        const { a, b, operation } = res.query;
+        const { a, b, operation } = req.query;
         let result = 0;
         switch (operation) {
             case "add":
