@@ -44,7 +44,7 @@ const Lab5 = (app) => {
         const { id } = req.params;
         const todo = todos.find((t) => t.id === parseInt(id));
         if (!todo) {
-            res.status(404).json({message:`Unable to delete Todo with ID ${id}`});
+            res.status(404).json({ message: `Unable to delete Todo with ID ${id}` });
             return;
         }
         todos.splice(todos.indexOf(todo), 1);
@@ -52,12 +52,18 @@ const Lab5 = (app) => {
     });
 
 
+    app.get("/a5/todos/:id/delete", (req, res) => {
+        const { id } = req.params;
+        const todo = todos.find((t) => t.id === parseInt(id));
+        todos.splice(todos.indexOf(todo), 1);
+        res.json(todos);
+    });
 
     app.put("/a5/todos/:id", (req, res) => {
         const { id } = req.params;
         const todo = todos.find((t) => t.id === parseInt(id));
         if (!todo) {
-            res.status(404).json({message:`Unable to update Todo with ID ${id}`});
+            res.status(404).json({ message: `Unable to update Todo with ID ${id}` });
             return;
         }
         todo.title = req.body.title;
@@ -109,7 +115,16 @@ const Lab5 = (app) => {
         res.json(assignment);
     });
 
-
+    app.get("/a5/todos/create", (req, res) => {
+        const newTodo = {
+          id: new Date().getTime(),
+          title: "New Task",
+          completed: false,
+        };
+        todos.push(newTodo);
+        res.json(todos);
+      });
+    
     app.get("/a5/assignment", (req, res) => {
         res.json(assignment);
     });

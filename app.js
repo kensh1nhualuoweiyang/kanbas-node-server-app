@@ -11,7 +11,6 @@ import session from 'express-session';
 
 
 const CONNECTION_STRING = process.env.DB_CONNECTION_STRING || 'mongodb://127.0.0.1:27017/kanbas'
-console.log(CONNECTION_STRING);
 mongoose.connect(CONNECTION_STRING)
 const app = express()
 app.use(
@@ -31,7 +30,6 @@ if (process.env.NODE_ENV !== "development") {
         sameSite: "none",
         secure: true,
     };
-
 }
 app.use(session(sessionOption))
 app.use(express.json())
