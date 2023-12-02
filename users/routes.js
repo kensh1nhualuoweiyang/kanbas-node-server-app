@@ -26,7 +26,7 @@ function UserRoutes(app) {
         res.json(status)
     }
     const signOut = async (req, res) => {
-        req.session.destory();
+        req.session.destroy();
         res.json(200)
     }
     const login = async (req, res) => {
